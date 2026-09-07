@@ -27,6 +27,7 @@ The Power BI report contains two main pages:
 - Monthly revenue and gross profit trend
 - Revenue by product category
 - Year and channel filtering
+![Executive Overview](Executive%20Overview.png)!
 
 ### 2. Inventory Risk & Stock Audit
 - Total inventory value
@@ -34,7 +35,9 @@ The Power BI report contains two main pages:
 - No-sales SKU detection
 - Inventory value by category
 - Inventory status breakdown
-- High-risk SKU audit table
+- - High-risk SKU audit table
+
+![Inventory Risk & Stock Audit](Inventory%20Risk%20%26%20Stock%20Audit.png)
 
 ## Tools Used
 
